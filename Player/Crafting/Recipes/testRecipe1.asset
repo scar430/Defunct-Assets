@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dda53f94b8551e3469276e4abf1b51a3, type: 3}
+  m_Name: testRecipe1
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 0}
+  requirements:
+  - {fileID: 11400000, guid: 2f4694844dc7edb4cb3018c3299fdafb, type: 2}
+  - {fileID: 11400000, guid: 2f4694844dc7edb4cb3018c3299fdafb, type: 2}
+  - {fileID: 11400000, guid: e256713709a44a544bc7d8302c349101, type: 2}
+  results:
+  - {fileID: 11400000, guid: b273e1c737a99744fae2537dc259bffd, type: 2}

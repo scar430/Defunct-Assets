@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d347c01214df194f93b16fbe75fce83, type: 3}
+  m_Name: item2
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: e7246251342473343b77a955b5ddf9c3, type: 3}
+  id: hammer
+  description: 
+  weight: 0
+  animation: {fileID: 0}
+  gameObject: {fileID: 0}
+  wood: 5
+  stone: 10
+  flesh: 15
